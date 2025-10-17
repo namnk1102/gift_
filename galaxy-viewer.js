@@ -6,7 +6,7 @@ const isDemo = urlParams.get('demo') === '1';
 // --- Demo Data ---
 const demoGalaxyDataDefault = {
     messages: [
-        "Chúc em tất cả ❤️", "Chúc mừng sinh nhật em", "Nguyễn Vân Anh 💖", "20/10/2006",
+        "Chúc em tất cả ❤️", "Chúc mừng sinh nhật em", "Nguyễn Vân Anh 💖", "22/10/2006",
         "Em là mặt trời của anh💖",
     ],
     icons: ["♥", "💖", "❤️", "❤️", "💕", "💕"],
